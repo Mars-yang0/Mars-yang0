@@ -4,11 +4,7 @@
 
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mars-yang0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars-yang0)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mars-yang0)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mars-yang0&theme=react)
 
 <!--
 **Mars-yang0/Mars-yang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
