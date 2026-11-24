@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently pursuing a master's degree at Beihang university @HangZhou 🛫
+- ✈️ I’m currently pursuing a master's degree at Beihang university @HangZhou 
 <!--
 **Mars-yang0/Mars-yang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
