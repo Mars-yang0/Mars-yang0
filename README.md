@@ -1,47 +1,11 @@
 <!-- gif -->
 <div align="center">
   <img
-    width="250"
-    alt="Pixel dog coding"
-    src="https://raw.githubusercontent.com/Albrut/Albrut/main/sr2712ab0b35ecd.gif"
+    src="https://github.com/Mars-yang0/Mars-yang0/blob/a952981b172f49256aa07296d7dee85b81a72bec/assets/sakura%20cat.gif"
+    alt="Sakura cat"
+    width="600"
   />
 </div>
-
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/021eb644-df00-4f32-af39-53187c953d71"
-    alt="MarioCoder"
-    width="500"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/5ae67440-3cd6-4183-b803-693dc42c71ec"
-    alt="MarioCoder"
-    width="500"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739"
-    alt="MarioCoder"
-    width="500"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/6bc848d6-c8fd-49e2-881b-d3407aa95d41"
-    alt="SnowMan"
-    width="500"
-  />
-</div>
-
-
-https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739
-
 
 
   <!-- for beauty 留个空行好看点 -->
