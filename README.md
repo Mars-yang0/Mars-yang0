@@ -3,7 +3,7 @@
   <img
     src="https://github.com/Mars-yang0/Mars-yang0/blob/a952981b172f49256aa07296d7dee85b81a72bec/assets/sakura%20cat.gif"
     alt="Sakura cat"
-    width="600"
+    width="400"
   />
 </div>
 
@@ -34,6 +34,11 @@
 - ✈️ I’m currently pursuing a master's degree at Beihang university @HangZhou
 
 
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  
 <!-- contribution graph -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mars-yang0&theme=react)
 
