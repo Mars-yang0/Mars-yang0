@@ -3,7 +3,7 @@
   <img
     src="./assets/sakura%20cat.gif"
     alt="Sakura cat"
-    width="400"
+    width="500"
   />
 </div>
 
@@ -31,9 +31,9 @@
 <!-- introduce myself -->
 ## Hi there 👋
 
-- ✈️ I’m currently pursuing a master's degree at Beihang university @HangZhou
-
-
+<div align="center">🌱 I’m currently learning <code>LLM</code> and <code>Agent</code> </div>  
+<div align="center">✈️ I’m currently pursuing a master's degree at <code>Beihang university @HangZhou</code> </div>
+<div align="center">💡 <strong>hope to do some meaningful work...</strong></div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
