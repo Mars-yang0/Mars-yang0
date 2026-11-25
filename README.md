@@ -3,7 +3,7 @@
   <img
     src="./assets/sakura%20cat.gif"
     alt="Sakura cat"
-    width="500"
+    width="450"
   />
 </div>
 
@@ -25,15 +25,15 @@
   <a href="https://github.com/ishandutta2007">
     <img src="https://komarev.com/ghpvc/?username=Mars-yang0&label=Profile%20Views&base=0000&color=0e75b6&style=flat" />
   </a>
-  
+    
   </div>
 
 <!-- introduce myself -->
 ## Hi there 👋
 
-<div align="center">🌱 I’m currently learning <code>LLM</code> and <code>Agent</code> </div>  
-<div align="center">✈️ I’m currently pursuing a master's degree at <code>Beihang university @HangZhou</code> </div>
-<div align="center">💡 <strong>hope to do some meaningful work...</strong></div>
+- <div align="left">🌱 I’m currently learning <code>LLM</code> and <code>Agent</code> </div>  
+- <div align="left">✈️ I’m currently pursuing a master's degree at <code>Beihang university @HangZhou</code> </div>
+  <div align="right"> <strong>hope to do some meaningful work...</strong></div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
