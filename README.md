@@ -1,7 +1,7 @@
 <!-- gif -->
 <div align="center">
   <img
-    src="https://github.com/Mars-yang0/Mars-yang0/blob/a952981b172f49256aa07296d7dee85b81a72bec/assets/sakura%20cat.gif"
+    src="./assets/sakura%20cat.gif"
     alt="Sakura cat"
     width="400"
   />
